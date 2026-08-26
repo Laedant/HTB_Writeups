@@ -3,7 +3,7 @@
 **Platform:** HackTheBox  
 **Difficulty:** Easy  
 **OS:** Windows Server 2022  
-**IP:** 10.129.230.181
+**IP:** 10.129.230.181 - [Target IP]
 **Domain:** support.htb  
 **DC Hostname:** DC  
 
