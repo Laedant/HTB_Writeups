@@ -159,7 +159,7 @@ evil-winrm -i 10.129.230.181 -u support -p 'Ironside47pleasure40Watchful'
 
 ```powershell
 cat C:\Users\support\Desktop\user.txt
-# ecabc326fef07bae443db411bd0c7d7e
+# [REDACTED]
 ```
 
 ---
